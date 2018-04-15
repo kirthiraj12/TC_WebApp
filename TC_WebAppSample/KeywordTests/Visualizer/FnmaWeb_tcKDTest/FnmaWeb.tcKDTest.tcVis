@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{1BFE18D4-1626-466D-BAC0-D834FE941C58}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43205.5388657407" objectName="Aliases.browser.pageHousingDataExchange.navNavbarNavbarDefault.linkDocumentation" objectLeft="1389" objectTop="132" objectRight="1555" objectBottom="204" clickPointX="1474" clickPointY="180" imageFileName="tcvi194079688403.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43205.5391435185" objectName="Aliases.browser.pageHousingDataExchange.navNavbarNavbarDefault.linkApis" objectLeft="1324" objectTop="132" objectRight="1407" objectBottom="204" clickPointX="1362" clickPointY="168" imageFileName="tcvi196560988405.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43205.5394097222" objectName="Aliases.browser.pageHousingDataExchange2.panelContentContainer.panelDdContainer.panelDdTilesContainer.panelDdTilesDiv.linkDataviz" objectLeft="438" objectTop="1349" objectRight="519" objectBottom="1375" clickPointX="482" clickPointY="1364" imageFileName="tcvi198779688408.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

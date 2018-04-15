@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Version="1">
+	<Providers>
+		<A609CA20xCE0Bx4080x93FCx121361DAEEF9 version="1">
+			<groups>
+				<Group0 Caption="&lt;root&gt;TestingGoogle" Key="A1AC6D2FxFE1Bx4D96x918Cx1798A17A4149" Enabled="True">
+					<Hosts>
+						<Host0 Device="Windows 10" Browser="Firefox 57 (64-bit)" Resolution="1920x1080" DeviceApi="Win10" BrowserApi="FF57x64" ResolutionApi="1920x1080" />
+						<Host1 Device="Windows 10" Browser="Google Chrome 63" Resolution="1920x1080" DeviceApi="Win10" BrowserApi="Chrome63" ResolutionApi="1920x1080" />
+						<Host2 Device="Windows 7 64-Bit" Browser="Google Chrome 60 (64-bit)" Resolution="1920x1080" DeviceApi="Win7x64" BrowserApi="Chrome60x64" ResolutionApi="1920x1080" />
+						<Host3 Device="Windows 8" Browser="Firefox 54 (64-bit)" Resolution="2560x1920" DeviceApi="Win8" BrowserApi="FF54x64" ResolutionApi="2560x1920" />
+						<Host4 Device="Windows 8" Browser="Internet Explorer 10" Resolution="1920x1080" DeviceApi="Win8" BrowserApi="IE10" ResolutionApi="1920x1080" />
+					</Hosts>
+					<Tests>
+						<Test0 Name="TestingGoogle" Project="TC_WebAppSample" TestName="Script|GoogleScript|TestingGoogle" Key="1EB78153x0539x48A8xB962xB80C8FCB0CC4" />
+					</Tests>
+					<TestItems />
+				</Group0>
+			</groups>
+			<tunnels />
+		</A609CA20xCE0Bx4080x93FCx121361DAEEF9>
+	</Providers>
+</Root>
